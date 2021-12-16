@@ -1,0 +1,5 @@
+  File "/home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools/IMUCovarCalc.py", line 13
+    "orientation_pitch" : []
+    ^
+SyntaxError: invalid syntax
+

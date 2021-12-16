@@ -1,0 +1,24 @@
+[0.212s] Invoking command in '/home/worbots/BasherROSWorkspace/src/robotTool/robotTools': PYTHONPATH=/home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/robotTools build --build-base /home/worbots/BasherROSWorkspace/build/robotTools/build install --prefix /home/worbots/BasherROSWorkspace/install/robotTools --record /home/worbots/BasherROSWorkspace/build/robotTools/install.log --single-version-externally-managed
+[0.376s] running egg_info
+[0.377s] writing ../../../build/robotTools/robotTools.egg-info/PKG-INFO
+[0.377s] writing dependency_links to ../../../build/robotTools/robotTools.egg-info/dependency_links.txt
+[0.378s] writing entry points to ../../../build/robotTools/robotTools.egg-info/entry_points.txt
+[0.378s] writing requirements to ../../../build/robotTools/robotTools.egg-info/requires.txt
+[0.378s] writing top-level names to ../../../build/robotTools/robotTools.egg-info/top_level.txt
+[0.405s] reading manifest file '../../../build/robotTools/robotTools.egg-info/SOURCES.txt'
+[0.407s] writing manifest file '../../../build/robotTools/robotTools.egg-info/SOURCES.txt'
+[0.408s] running build
+[0.408s] running build_py
+[0.408s] copying robotTools/IMUCovarCalc.py -> /home/worbots/BasherROSWorkspace/build/robotTools/build/lib/robotTools
+[0.408s] running install
+[0.409s] running install_lib
+[0.411s] copying /home/worbots/BasherROSWorkspace/build/robotTools/build/lib/robotTools/IMUCovarCalc.py -> /home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools
+[0.411s] byte-compiling /home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools/IMUCovarCalc.py to IMUCovarCalc.cpython-38.pyc
+[0.413s] running install_data
+[0.414s] running install_egg_info
+[0.415s] removing '/home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools-0.0.0-py3.8.egg-info' (and everything under it)
+[0.415s] Copying ../../../build/robotTools/robotTools.egg-info to /home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools-0.0.0-py3.8.egg-info
+[0.416s] running install_scripts
+[0.430s] Installing IMUCovarCalc script to /home/worbots/BasherROSWorkspace/install/robotTools/lib/robotTools
+[0.431s] writing list of installed files to '/home/worbots/BasherROSWorkspace/build/robotTools/install.log'
+[0.452s] Invoked command in '/home/worbots/BasherROSWorkspace/src/robotTool/robotTools' returned '0': PYTHONPATH=/home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/robotTools build --build-base /home/worbots/BasherROSWorkspace/build/robotTools/build install --prefix /home/worbots/BasherROSWorkspace/install/robotTools --record /home/worbots/BasherROSWorkspace/build/robotTools/install.log --single-version-externally-managed

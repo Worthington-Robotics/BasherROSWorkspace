@@ -1,0 +1,3 @@
+[submodule "src/robotTool"]
+	path = src/robotTool
+	url = https://github.com/Worthington-Robotics/robotTool.git

@@ -1,0 +1,3 @@
+[console_scripts]
+IMUCovarCalc = robotTools.IMUCovarCalc:main
+

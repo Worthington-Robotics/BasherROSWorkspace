@@ -1,0 +1,42 @@
+[0.206s] Invoking command in '/home/worbots/BasherROSWorkspace/src/robotTool/robotTools': PYTHONPATH=/home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/robotTools build --build-base /home/worbots/BasherROSWorkspace/build/robotTools/build install --prefix /home/worbots/BasherROSWorkspace/install/robotTools --record /home/worbots/BasherROSWorkspace/build/robotTools/install.log --single-version-externally-managed
+[0.378s] running egg_info
+[0.379s] creating ../../../build/robotTools/robotTools.egg-info
+[0.379s] writing ../../../build/robotTools/robotTools.egg-info/PKG-INFO
+[0.380s] writing dependency_links to ../../../build/robotTools/robotTools.egg-info/dependency_links.txt
+[0.380s] writing entry points to ../../../build/robotTools/robotTools.egg-info/entry_points.txt
+[0.380s] writing requirements to ../../../build/robotTools/robotTools.egg-info/requires.txt
+[0.380s] writing top-level names to ../../../build/robotTools/robotTools.egg-info/top_level.txt
+[0.381s] writing manifest file '../../../build/robotTools/robotTools.egg-info/SOURCES.txt'
+[0.407s] reading manifest file '../../../build/robotTools/robotTools.egg-info/SOURCES.txt'
+[0.409s] writing manifest file '../../../build/robotTools/robotTools.egg-info/SOURCES.txt'
+[0.409s] running build
+[0.409s] running build_py
+[0.409s] creating /home/worbots/BasherROSWorkspace/build/robotTools/build
+[0.409s] creating /home/worbots/BasherROSWorkspace/build/robotTools/build/lib
+[0.410s] creating /home/worbots/BasherROSWorkspace/build/robotTools/build/lib/robotTools
+[0.410s] copying robotTools/IMUCovarCalc.py -> /home/worbots/BasherROSWorkspace/build/robotTools/build/lib/robotTools
+[0.410s] copying robotTools/__init__.py -> /home/worbots/BasherROSWorkspace/build/robotTools/build/lib/robotTools
+[0.410s] running install
+[0.411s] running install_lib
+[0.412s] creating /home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools
+[0.412s] copying /home/worbots/BasherROSWorkspace/build/robotTools/build/lib/robotTools/IMUCovarCalc.py -> /home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools
+[0.413s] copying /home/worbots/BasherROSWorkspace/build/robotTools/build/lib/robotTools/__init__.py -> /home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools
+[0.413s] byte-compiling /home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools/IMUCovarCalc.py to IMUCovarCalc.cpython-38.pyc
+[0.414s]   File "/home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools/IMUCovarCalc.py", line 13
+[0.415s]     "orientation_pitch" : []
+[0.415s]     ^
+[0.415s] SyntaxError: invalid syntax
+[0.415s] 
+[0.415s] byte-compiling /home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools/__init__.py to __init__.cpython-38.pyc
+[0.415s] running install_data
+[0.416s] creating /home/worbots/BasherROSWorkspace/install/robotTools/share/ament_index
+[0.416s] creating /home/worbots/BasherROSWorkspace/install/robotTools/share/ament_index/resource_index
+[0.416s] creating /home/worbots/BasherROSWorkspace/install/robotTools/share/ament_index/resource_index/packages
+[0.416s] copying resource/robotTools -> /home/worbots/BasherROSWorkspace/install/robotTools/share/ament_index/resource_index/packages
+[0.416s] copying package.xml -> /home/worbots/BasherROSWorkspace/install/robotTools/share/robotTools
+[0.416s] running install_egg_info
+[0.418s] Copying ../../../build/robotTools/robotTools.egg-info to /home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages/robotTools-0.0.0-py3.8.egg-info
+[0.419s] running install_scripts
+[0.435s] Installing IMUCovarCalc script to /home/worbots/BasherROSWorkspace/install/robotTools/lib/robotTools
+[0.435s] writing list of installed files to '/home/worbots/BasherROSWorkspace/build/robotTools/install.log'
+[0.457s] Invoked command in '/home/worbots/BasherROSWorkspace/src/robotTool/robotTools' returned '0': PYTHONPATH=/home/worbots/BasherROSWorkspace/install/robotTools/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/robotTools build --build-base /home/worbots/BasherROSWorkspace/build/robotTools/build install --prefix /home/worbots/BasherROSWorkspace/install/robotTools --record /home/worbots/BasherROSWorkspace/build/robotTools/install.log --single-version-externally-managed
