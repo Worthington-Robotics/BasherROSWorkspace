@@ -1,3 +1,6 @@
 [submodule "src/robotTool"]
 	path = src/robotTool
 	url = https://github.com/Worthington-Robotics/robotTool.git
+[submodule "src/RosPathGen"]
+	path = src/RosPathGen
+	url = https://github.com/Worthington-Robotics/RosPathGen.git
