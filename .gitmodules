@@ -16,3 +16,6 @@
 [submodule "src/async_web_server_cpp"]
 	path = src/async_web_server_cpp
 	url = https://github.com/fkie/async_web_server_cpp.git
+[submodule "src/AutonomousBehaviorTree"]
+	path = src/AutonomousBehaviorTree
+	url = https://github.com/Worthington-Robotics/AutonomousBehaviorTree.git
