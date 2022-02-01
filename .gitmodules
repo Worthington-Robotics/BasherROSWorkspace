@@ -19,3 +19,6 @@
 [submodule "src/AutonomousBehaviorTree"]
 	path = src/AutonomousBehaviorTree
 	url = https://github.com/Worthington-Robotics/AutonomousBehaviorTree.git
+[submodule "src/shooter_intake"]
+	path = src/shooter_intake
+	url = https://github.com/Worthington-Robotics/shooter_intake.git
