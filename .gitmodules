@@ -23,3 +23,6 @@
 [submodule "src/shooter_intake"]
 	path = src/shooter_intake
 	url = https://github.com/Worthington-Robotics/shooter_intake.git
+[submodule "src/InputManager"]
+	path = src/InputManager
+	url = https://github.com/Worthington-Robotics/InputManager.git
