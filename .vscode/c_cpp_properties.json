@@ -4,6 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
+                "${workspaceFolder}/src/AutonomousBehaviorTree/**",
                 "/opt/ros/galactic/include/**"
             ],
             "defines": [],
